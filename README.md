@@ -1,2 +1,8 @@
 # azure-resume1
-My resume 
+My resume , [projectvideo.]() 
+## First step 
+ - Front end
+- main.js 
+```js
+const
+```
